@@ -1,5 +1,4 @@
-package com.ps;
-
+package com.ps;git
     public class CellPhone {
         private String serialNumber;
         private String model;
